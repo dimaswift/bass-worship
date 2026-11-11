@@ -14,9 +14,18 @@ https://dimaswift.github.io/bass-worship/. The repository is public.
 
 ## Adding a song
 
-The owner sends a screenshot of a chord chart, sometimes with a YouTube link, and expects the song to
-appear on the site. They asked for this on 2026-11-11 as the standing way of adding songs, so the commit
-and the push are part of the job:
+The owner sends a screenshot of a chord chart or a link to one (so far always holychords.pro), sometimes
+with a YouTube link, and expects the song to appear on the site. They asked for this on 2026-11-11 as the
+standing way of adding songs, so the commit and the push are part of the job.
+
+On a holychords.pro page the chart is the `#music_text` block: section names, lines of chords, lines of
+words. Take the sections and chords from it and leave the words. The page also names the artist, sometimes
+gives "BPM" and "Time Sig", and embeds a YouTube video of the song; check that video's title and use it as
+`youtube` unless the owner gave another. The page's address is the song's `source`. A screenshot shows no
+title: search for a line of the chart to find its page.
+
+The owner is learning the bass and cannot answer questions about meter, bar lengths or tempo. Find these
+out from the page or state what you assumed; do not ask.
 
 1. Read the chart: the title, the key, the sections in order, the chords of each line. The charts are
    usually Russian and write H for B. Keep the chord names as the chart has them and put "H in the chords
@@ -110,15 +119,20 @@ A **bar** has `chords` and one line for each string that has notes:
 
 ## Writing the bass line
 
-The owner plays a four-string bass in standard tuning. The tabs are arrangements made from the chords, not
-transcriptions, and `notes` says so.
+The owner plays a four-string bass in standard tuning and is a beginner (2026-11-11). The tabs are
+arrangements made from the chords, not transcriptions, and `notes` says so.
+
+- Write for a learner: whole, half and quarter notes on the quarter-note grid (8 characters in 4/4, counted
+  1 2 3 4), notes on the beat. Anything with eighth notes or off-beat notes goes in a second tab of the
+  section labelled as the harder one. `zhit-v-tvoey-realnosti` is the model.
+- In `notes`, say which finger goes on which fret, and give the order of the sections when the chart lists
+  the whole song. Explain in plain words; no theory terms without saying what they mean.
 
 - The root of the chord on the downbeat. For a slash chord (`C/E`) the bass plays the note after the slash.
 - One hand position where the song allows it, low on the neck. Give the fret of each root in `notes`, and
   an alternative where an open string may sound too loose.
-- Let the line grow with the song: long notes where it is quiet, a simple figure in the verse, steady
-  eighth notes in the chorus, an octave or a passing note at the end of a phrase. Nothing faster than
-  eighth notes unless the song asks for it.
+- Let the line grow with the song: one long note per bar where it is quiet, two in the pre-chorus, a note on
+  every count in the chorus. Nothing faster than eighth notes unless the song asks for it.
 
 ## Changing the page
 

@@ -1,0 +1,158 @@
+{
+  "title": "Жить в Твоей реальности",
+  "artist": "OWG Worship",
+  "key": "G",
+  "bpm": 134,
+  "time": "4/4",
+  "tuning": "EADG",
+  "youtube": "https://www.youtube.com/watch?v=WNdtSuqbcCs",
+  "source": "https://holychords.pro/37987",
+  "added": "2026-11-11",
+  "notes": [
+    "Hm in the chords is B minor and H is B major. The bass plays B for both.",
+    "Where the notes are: E is the open E string. On the A string, B is fret 2, C is fret 3 and D is fret 5. A is the open A string.",
+    "Keep your hand in one place on the A string: index finger on fret 2, middle finger on fret 3, little finger on fret 5.",
+    "Count 1 2 3 4 in every bar. The song is quick, so practise slowly first; the speed setting of the video player can slow the recording down.",
+    "Order of the song: Вступление, Куплет twice, Пред-припев, Припев, Проигрыш, Куплет twice, Пред-припев, Припев twice, 1 Мост twice, 2 Мост, Пред-припев, Припев twice, Проигрыш.",
+    "A root-note arrangement written from the chord chart: one bar for each chord, except Em and D in the bridge, which share a bar. It has not been checked against the recording."
+  ],
+  "sections": [
+    {
+      "name": "Вступление и проигрыш",
+      "chart": ["[Em] [Hm] [C] [D]"],
+      "tabs": [
+        {
+          "note": "One note per bar. Let it ring for all four counts.",
+          "bars": [
+            { "chords": "Em", "E": "0-------" },
+            { "chords": "Hm", "A": "2-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "D",  "A": "5-------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Куплет",
+      "chart": [
+        "[Em] [Hm]",
+        "[C] [D]",
+        "[Em] [Hm]",
+        "[C] [D]"
+      ],
+      "tabs": [
+        {
+          "repeat": 4,
+          "note": "The same four bars as the intro. The verse is sung twice, which is four times round.",
+          "bars": [
+            { "chords": "Em", "E": "0-------" },
+            { "chords": "Hm", "A": "2-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "D",  "A": "5-------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Пред-припев",
+      "chart": [
+        "[Em] [Hm]",
+        "[C] [D]",
+        "[Em] [Hm]",
+        "[C] [D]"
+      ],
+      "tabs": [
+        {
+          "repeat": 2,
+          "note": "Two notes per bar, on counts 1 and 3.",
+          "bars": [
+            { "chords": "Em", "E": "0---0---" },
+            { "chords": "Hm", "A": "2---2---" },
+            { "chords": "C",  "A": "3---3---" },
+            { "chords": "D",  "A": "5---5---" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Припев",
+      "chart": [
+        "[Em] [Hm]",
+        "[C] [D]",
+        "[Em] [Hm]",
+        "[C] [D]"
+      ],
+      "tabs": [
+        {
+          "label": "Main",
+          "repeat": 2,
+          "note": "A note on every count.",
+          "bars": [
+            { "chords": "Em", "E": "0-0-0-0-" },
+            { "chords": "Hm", "A": "2-2-2-2-" },
+            { "chords": "C",  "A": "3-3-3-3-" },
+            { "chords": "D",  "A": "5-5-5-5-" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 2,
+          "note": "Twice as many notes: one on every count and one on every \"and\" between.",
+          "bars": [
+            { "chords": "Em", "E": "0-0-0-0-0-0-0-0-" },
+            { "chords": "Hm", "A": "2-2-2-2-2-2-2-2-" },
+            { "chords": "C",  "A": "3-3-3-3-3-3-3-3-" },
+            { "chords": "D",  "A": "5-5-5-5-5-5-5-5-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1 Мост",
+      "chart": [
+        "[Am] [Em] [D]",
+        "[Am] [Em] [D]",
+        "[Am] [Em] [D]",
+        "[Am] [Em] [D]"
+      ],
+      "tabs": [
+        {
+          "repeat": 8,
+          "note": "These two bars go round for the whole first bridge. Em and D share the second bar, two counts each.",
+          "bars": [
+            { "chords": "Am",                   "A": "0-------" },
+            { "chords": [[1, "Em"], [3, "D"]],  "A": "----5---", "E": "0-------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2 Мост",
+      "chart": [
+        "[Am] [Em] [D]",
+        "[Am] [Em] [D]",
+        "[Am] [Em] [D]",
+        "[C] [H]"
+      ],
+      "tabs": [
+        {
+          "label": "First three lines",
+          "repeat": 3,
+          "note": "The same two bars, now with a note on every count.",
+          "bars": [
+            { "chords": "Am",                   "A": "0-0-0-0-" },
+            { "chords": [[1, "Em"], [3, "D"]],  "A": "----5-5-", "E": "0-0-----" }
+          ]
+        },
+        {
+          "label": "Last line",
+          "note": "B at the end leads back to E at the start of the pre-chorus.",
+          "bars": [
+            { "chords": "C", "A": "3-3-3-3-" },
+            { "chords": "H", "A": "2-2-2-2-" }
+          ]
+        }
+      ]
+    }
+  ]
+}
