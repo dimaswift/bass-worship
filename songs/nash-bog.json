@@ -1,0 +1,119 @@
+{
+  "title": "Наш Бог",
+  "subtitle": "Our God",
+  "artist": "Chris Tomlin",
+  "key": "G#m",
+  "bpm": 105,
+  "time": "4/4",
+  "tuning": "EADG",
+  "youtube": "",
+  "source": "",
+  "added": "2026-11-11",
+  "notes": [
+    "H in the chords is B.",
+    "One hand position, frets 0 to 4: G# is the E string at fret 4, E is the open E string, B is the A string at fret 2, F# is the E string at fret 2, C# is the A string at fret 4.",
+    "If the open E sounds boomy, play E on the A string at fret 7.",
+    "A root-note arrangement written from the chord chart, not a transcription of a recording."
+  ],
+  "sections": [
+    {
+      "name": "Интро",
+      "chart": ["[G#m] [E] [H] [F#]"],
+      "tabs": [
+        {
+          "note": "Let each note ring for the whole bar.",
+          "bars": [
+            { "chords": "G#m", "E": "4---------------" },
+            { "chords": "E",   "E": "0---------------" },
+            { "chords": "H",   "A": "2---------------" },
+            { "chords": "F#",  "E": "2---------------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Куплет",
+      "chart": [
+        "[G#m] [E] [H]",
+        "[G#m] [E] [H]",
+        "[C#m] [F#]",
+        "[G#m] [E] [H]",
+        "[G#m] [E] [H]",
+        "[C#m] [F#]"
+      ],
+      "tabs": [
+        {
+          "repeat": 2,
+          "note": "C#m and F# are two bars each here. If your band holds them for one bar, play one bar of each.",
+          "bars": [
+            { "chords": [[1, "G#m"], [3, "E"]], "E": "4-----4-0-----0-" },
+            { "chords": "H",                    "A": "2-----2-2-------" },
+            { "chords": [[1, "G#m"], [3, "E"]], "E": "4-----4-0-----0-" },
+            { "chords": "H",                    "A": "2-----2-2---2---" },
+            { "chords": "C#m",                  "A": "4-----4-4-----4-" },
+            {                                   "A": "4-----4-4-------" },
+            { "chords": "F#",                   "E": "2-----2-2-----2-" },
+            {                                   "E": "2-2-2-2-2-2-2-2-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Припев",
+      "chart": [
+        "[G#m] [E]",
+        "[H] [F#]",
+        "[G#m] [E]",
+        "[H] [F#]"
+      ],
+      "tabs": [
+        {
+          "repeat": 2,
+          "note": "Steady eighth notes.",
+          "bars": [
+            { "chords": "G#m", "E": "4-4-4-4-4-4-4-4-" },
+            { "chords": "E",   "E": "0-0-0-0-0-0-0-0-" },
+            { "chords": "H",   "A": "2-2-2-2-2-2-2-2-" },
+            { "chords": "F#",  "E": "2-2-2-2-2-2-2-2-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Мост",
+      "chart": ["[G#m]", "[E]", "[H]", "[F#]"],
+      "tabs": [
+        {
+          "label": "Quiet start",
+          "note": "One long note per bar.",
+          "bars": [
+            { "chords": "G#m", "E": "4---------------" },
+            { "chords": "E",   "E": "0---------------" },
+            { "chords": "H",   "A": "2---------------" },
+            { "chords": "F#",  "E": "2---------------" }
+          ]
+        },
+        {
+          "label": "Build",
+          "note": "Steady eighth notes, louder each time round.",
+          "bars": [
+            { "chords": "G#m", "E": "4-4-4-4-4-4-4-4-" },
+            { "chords": "E",   "E": "0-0-0-0-0-0-0-0-" },
+            { "chords": "H",   "A": "2-2-2-2-2-2-2-2-" },
+            { "chords": "F#",  "E": "2-2-2-2-2-2-2-2-" }
+          ]
+        },
+        {
+          "label": "Loudest repeats",
+          "note": "An octave near the end of each bar.",
+          "bars": [
+            { "chords": "G#m", "D": "------------6---", "E": "4-4-4-4-4-4---4-" },
+            { "chords": "E",   "D": "------------2---", "E": "0-0-0-0-0-0---0-" },
+            { "chords": "H",   "G": "------------4---", "A": "2-2-2-2-2-2---2-" },
+            { "chords": "F#",  "D": "------------4---", "E": "2-2-2-2-2-2---2-" }
+          ]
+        }
+      ]
+    }
+  ]
+}
