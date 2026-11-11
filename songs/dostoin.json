@@ -1,0 +1,66 @@
+{
+  "title": "Достоин",
+  "artist": "NG Worship",
+  "key": "Cm",
+  "time": "4/4",
+  "tuning": "EADG",
+  "youtube": "https://www.youtube.com/watch?v=6VpKwfTtkYI",
+  "source": "https://holychords.pro/10262",
+  "added": "2026-11-11",
+  "notes": [
+    "A# in the chords is B flat and G# is A flat.",
+    "For Cm/A# the bass plays A#, so the line walks down C, A#, G#, F and then steps up to G.",
+    "One hand position, frets 1 to 4: C is the A string at fret 3, A# is the A string at fret 1, G# is the E string at fret 4, F is the E string at fret 1, G is the E string at fret 3.",
+    "The 2 on the A string at the end of the G bar is B, the note that leads back to C.",
+    "The bar lengths are a reading of the chart, not checked against the recording: 4/4, one bar each of Cm, Cm/A# and G, with G# and Fm sharing a bar.",
+    "A root-note arrangement written from the chord chart, not a transcription of a recording."
+  ],
+  "sections": [
+    {
+      "name": "Куплет",
+      "chart": [
+        "[Cm] [Cm/A#] [G#] [Fm]",
+        "[G]"
+      ],
+      "tabs": [
+        {
+          "note": "Long notes: let each one ring until the next.",
+          "bars": [
+            { "chords": "Cm",                   "A": "3---------------" },
+            { "chords": "Cm/A#",                "A": "1---------------" },
+            { "chords": [[1, "G#"], [3, "Fm"]], "E": "4-------1-------" },
+            { "chords": "G",                    "E": "3---------------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Припев",
+      "chart": [
+        "[Cm] [Cm/A#]",
+        "[G#] [Fm] [G]"
+      ],
+      "tabs": [
+        {
+          "label": "Main",
+          "bars": [
+            { "chords": "Cm",                   "A": "3-----3-3-----3-" },
+            { "chords": "Cm/A#",                "A": "1-----1-1-----1-" },
+            { "chords": [[1, "G#"], [3, "Fm"]], "E": "4-----4-1-----1-" },
+            { "chords": "G",                    "A": "--------------2-", "E": "3-----3-3-------" }
+          ]
+        },
+        {
+          "label": "When the band builds",
+          "note": "Steady eighth notes.",
+          "bars": [
+            { "chords": "Cm",                   "A": "3-3-3-3-3-3-3-3-" },
+            { "chords": "Cm/A#",                "A": "1-1-1-1-1-1-1-1-" },
+            { "chords": [[1, "G#"], [3, "Fm"]], "E": "4-4-4-4-1-1-1-1-" },
+            { "chords": "G",                    "A": "--------------2-", "E": "3-3-3-3-3-3-3---" }
+          ]
+        }
+      ]
+    }
+  ]
+}
