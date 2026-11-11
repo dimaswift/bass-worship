@@ -11,8 +11,9 @@
   "added": "2026-11-11",
   "notes": [
     "H in the chords is B.",
-    "One hand position, frets 0 to 4: G# is the E string at fret 4, E is the open E string, B is the A string at fret 2, F# is the E string at fret 2, C# is the A string at fret 4.",
-    "If the open E sounds boomy, play E on the A string at fret 7.",
+    "Where the notes are: G# is the E string at fret 4, E is the open E string, B is the A string at fret 2, F# is the E string at fret 2, C# is the A string at fret 4.",
+    "Keep your hand in one place: index finger on fret 2, little finger on fret 4.",
+    "Count 1 2 3 4 in every bar.",
     "A root-note arrangement written from the chord chart, not a transcription of a recording."
   ],
   "sections": [
@@ -21,12 +22,12 @@
       "chart": ["[G#m] [E] [H] [F#]"],
       "tabs": [
         {
-          "note": "Let each note ring for the whole bar.",
+          "note": "One note per bar. Let it ring for all four counts.",
           "bars": [
-            { "chords": "G#m", "E": "4---------------" },
-            { "chords": "E",   "E": "0---------------" },
-            { "chords": "H",   "A": "2---------------" },
-            { "chords": "F#",  "E": "2---------------" }
+            { "chords": "G#m", "E": "4-------" },
+            { "chords": "E",   "E": "0-------" },
+            { "chords": "H",   "A": "2-------" },
+            { "chords": "F#",  "E": "2-------" }
           ]
         }
       ]
@@ -43,8 +44,24 @@
       ],
       "tabs": [
         {
+          "label": "Main",
           "repeat": 2,
-          "note": "C#m and F# are two bars each here. If your band holds them for one bar, play one bar of each.",
+          "note": "G#m and E share a bar, two counts each. C#m and F# are two bars each here; if your band holds them for one bar, play one bar of each.",
+          "bars": [
+            { "chords": [[1, "G#m"], [3, "E"]], "E": "4---0---" },
+            { "chords": "H",                    "A": "2-------" },
+            { "chords": [[1, "G#m"], [3, "E"]], "E": "4---0---" },
+            { "chords": "H",                    "A": "2-------" },
+            { "chords": "C#m",                  "A": "4-------" },
+            {                                   "A": "4-------" },
+            { "chords": "F#",                   "E": "2-------" },
+            {                                   "E": "2-------" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 2,
+          "note": "Adds notes between the counts, on the \"and\".",
           "bars": [
             { "chords": [[1, "G#m"], [3, "E"]], "E": "4-----4-0-----0-" },
             { "chords": "H",                    "A": "2-----2-2-------" },
@@ -68,8 +85,20 @@
       ],
       "tabs": [
         {
+          "label": "Main",
           "repeat": 2,
-          "note": "Steady eighth notes.",
+          "note": "A note on every count.",
+          "bars": [
+            { "chords": "G#m", "E": "4-4-4-4-" },
+            { "chords": "E",   "E": "0-0-0-0-" },
+            { "chords": "H",   "A": "2-2-2-2-" },
+            { "chords": "F#",  "E": "2-2-2-2-" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 2,
+          "note": "Twice as many notes: one on every count and one on every \"and\" between.",
           "bars": [
             { "chords": "G#m", "E": "4-4-4-4-4-4-4-4-" },
             { "chords": "E",   "E": "0-0-0-0-0-0-0-0-" },
@@ -85,27 +114,27 @@
       "tabs": [
         {
           "label": "Quiet start",
-          "note": "One long note per bar.",
+          "note": "One note per bar.",
           "bars": [
-            { "chords": "G#m", "E": "4---------------" },
-            { "chords": "E",   "E": "0---------------" },
-            { "chords": "H",   "A": "2---------------" },
-            { "chords": "F#",  "E": "2---------------" }
+            { "chords": "G#m", "E": "4-------" },
+            { "chords": "E",   "E": "0-------" },
+            { "chords": "H",   "A": "2-------" },
+            { "chords": "F#",  "E": "2-------" }
           ]
         },
         {
           "label": "Build",
-          "note": "Steady eighth notes, louder each time round.",
+          "note": "A note on every count, louder each time round.",
           "bars": [
-            { "chords": "G#m", "E": "4-4-4-4-4-4-4-4-" },
-            { "chords": "E",   "E": "0-0-0-0-0-0-0-0-" },
-            { "chords": "H",   "A": "2-2-2-2-2-2-2-2-" },
-            { "chords": "F#",  "E": "2-2-2-2-2-2-2-2-" }
+            { "chords": "G#m", "E": "4-4-4-4-" },
+            { "chords": "E",   "E": "0-0-0-0-" },
+            { "chords": "H",   "A": "2-2-2-2-" },
+            { "chords": "F#",  "E": "2-2-2-2-" }
           ]
         },
         {
-          "label": "Loudest repeats",
-          "note": "An octave near the end of each bar.",
+          "label": "Harder, for later",
+          "note": "Twice as many notes, with a jump near the end of each bar to the same note higher up.",
           "bars": [
             { "chords": "G#m", "D": "------------6---", "E": "4-4-4-4-4-4---4-" },
             { "chords": "E",   "D": "------------2---", "E": "0-0-0-0-0-0---0-" },
