@@ -1,0 +1,194 @@
+{
+  "title": "Свежий ветер",
+  "subtitle": "Fresh Wind",
+  "artist": "Hillsong Worship",
+  "key": "C",
+  "bpm": 63,
+  "time": "4/4",
+  "tuning": "EADG",
+  "youtube": "https://www.youtube.com/watch?v=7LRqPaBCRVs",
+  "source": "https://holychords.pro/77566",
+  "added": "2026-11-17",
+  "notes": [
+    "The video is the original English recording. It is in C like the chart, so you can play along with it.",
+    "A chord with a slash names the bass note after the slash: for C/E the bass plays E, for G/H it plays B (H is B).",
+    "Where the notes are: E is the open E string, F is the E string at fret 1, G is the E string at fret 3. A is the open A string, B is the A string at fret 2, C is the A string at fret 3.",
+    "Keep your hand in one place: index finger on fret 1, middle finger on fret 2, ring finger on fret 3.",
+    "The song is slow: count 1 2 3 4 in every bar, about one count a second.",
+    "Order of the song: Интро, 1 and 2 Куплет, 1 Припев, 3 and 4 Куплет, 2 Припев, Вставка, Мост, 2 Припев, Вставка to finish.",
+    "A root-note arrangement written from the chord chart. Each line of the chart is taken as two bars; that has not been checked against the recording."
+  ],
+  "sections": [
+    {
+      "name": "Интро",
+      "chart": [
+        "[F] [C] [G] [Am]",
+        "[F] [C] [G]"
+      ],
+      "tabs": [
+        {
+          "note": "One note per bar. Let it ring for all four counts. The last G is held for two bars.",
+          "bars": [
+            { "chords": "F",  "E": "1-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "G",  "E": "3-------" },
+            { "chords": "Am", "A": "0-------" },
+            { "chords": "F",  "E": "1-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "G",  "E": "3-------" },
+            {                 "E": "3-------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Куплет",
+      "chart": [
+        "[F] [C]",
+        "[G] [Am]",
+        "[F] [C] [G]"
+      ],
+      "tabs": [
+        {
+          "label": "Verses 1 and 2",
+          "repeat": 2,
+          "note": "The same as the intro: one note per bar.",
+          "bars": [
+            { "chords": "F",  "E": "1-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "G",  "E": "3-------" },
+            { "chords": "Am", "A": "0-------" },
+            { "chords": "F",  "E": "1-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "G",  "E": "3-------" },
+            {                 "E": "3-------" }
+          ]
+        },
+        {
+          "label": "Verses 3 and 4",
+          "repeat": 2,
+          "note": "Two notes per bar, on counts 1 and 3.",
+          "bars": [
+            { "chords": "F",  "E": "1---1---" },
+            { "chords": "C",  "A": "3---3---" },
+            { "chords": "G",  "E": "3---3---" },
+            { "chords": "Am", "A": "0---0---" },
+            { "chords": "F",  "E": "1---1---" },
+            { "chords": "C",  "A": "3---3---" },
+            { "chords": "G",  "E": "3---3---" },
+            {                 "E": "3---3---" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Припев",
+      "chart": [
+        "[C/E] [F] [Am]",
+        "[C] [G]"
+      ],
+      "tabs": [
+        {
+          "label": "1 Припев",
+          "note": "Two notes per bar, on counts 1 and 3. C/E and F share the first bar, so the bass steps up from E to F.",
+          "bars": [
+            { "chords": [[1, "C/E"], [3, "F"]], "E": "0---1---" },
+            { "chords": "Am",                   "A": "0---0---" },
+            { "chords": "C",                    "A": "3---3---" },
+            { "chords": "G",                    "E": "3---3---" }
+          ]
+        },
+        {
+          "label": "2 Припев",
+          "repeat": 2,
+          "note": "A note on every count.",
+          "bars": [
+            { "chords": [[1, "C/E"], [3, "F"]], "E": "0-0-1-1-" },
+            { "chords": "Am",                   "A": "0-0-0-0-" },
+            { "chords": "C",                    "A": "3-3-3-3-" },
+            { "chords": "G",                    "E": "3-3-3-3-" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 2,
+          "note": "For 2 Припев: twice as many notes, one on every count and one on every \"and\" between.",
+          "bars": [
+            { "chords": [[1, "C/E"], [3, "F"]], "E": "0-0-0-0-1-1-1-1-" },
+            { "chords": "Am",                   "A": "0-0-0-0-0-0-0-0-" },
+            { "chords": "C",                    "A": "3-3-3-3-3-3-3-3-" },
+            { "chords": "G",                    "E": "3-3-3-3-3-3-3-3-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Вставка",
+      "chart": [
+        "[F] [G]",
+        "[Am] [G/H]",
+        "[C] [C/E]",
+        "[G] [C/E]"
+      ],
+      "tabs": [
+        {
+          "label": "Main",
+          "note": "Two notes per bar, on counts 1 and 3. The first five bars climb one step at a time: F, G, A, B, C.",
+          "bars": [
+            { "chords": "F",   "E": "1---1---" },
+            { "chords": "G",   "E": "3---3---" },
+            { "chords": "Am",  "A": "0---0---" },
+            { "chords": "G/H", "A": "2---2---" },
+            { "chords": "C",   "A": "3---3---" },
+            { "chords": "C/E", "E": "0---0---" },
+            { "chords": "G",   "E": "3---3---" },
+            { "chords": "C/E", "E": "0---0---" }
+          ]
+        },
+        {
+          "label": "When the band builds",
+          "note": "A note on every count.",
+          "bars": [
+            { "chords": "F",   "E": "1-1-1-1-" },
+            { "chords": "G",   "E": "3-3-3-3-" },
+            { "chords": "Am",  "A": "0-0-0-0-" },
+            { "chords": "G/H", "A": "2-2-2-2-" },
+            { "chords": "C",   "A": "3-3-3-3-" },
+            { "chords": "C/E", "E": "0-0-0-0-" },
+            { "chords": "G",   "E": "3-3-3-3-" },
+            { "chords": "C/E", "E": "0-0-0-0-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Мост",
+      "chart": [
+        "[F] [Am]",
+        "[C] [G]"
+      ],
+      "tabs": [
+        {
+          "label": "First time round",
+          "note": "One note per bar.",
+          "bars": [
+            { "chords": "F",  "E": "1-------" },
+            { "chords": "Am", "A": "0-------" },
+            { "chords": "C",  "A": "3-------" },
+            { "chords": "G",  "E": "3-------" }
+          ]
+        },
+        {
+          "label": "Second time round",
+          "note": "A note on every count, leading into 2 Припев.",
+          "bars": [
+            { "chords": "F",  "E": "1-1-1-1-" },
+            { "chords": "Am", "A": "0-0-0-0-" },
+            { "chords": "C",  "A": "3-3-3-3-" },
+            { "chords": "G",  "E": "3-3-3-3-" }
+          ]
+        }
+      ]
+    }
+  ]
+}
