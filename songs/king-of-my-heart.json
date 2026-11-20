@@ -1,0 +1,182 @@
+{
+  "title": "King of My Heart",
+  "artist": "Steffany Gretzinger & Jeremy Riddle (Bethel Music)",
+  "key": "Bb",
+  "bpm": 68,
+  "time": "4/4",
+  "tuning": "EADG",
+  "youtube": "https://www.youtube.com/watch?v=pomqj7acJc4",
+  "source": "https://holychords.pro/1810",
+  "added": "2026-11-20",
+  "notes": [
+    "The chord sheet is in Bb and comes with the Bethel Moment video above. The studio recording on the album Starlight is in A, a half step lower, so this tab will not match that one.",
+    "The bass plays the letter of the chord: for Gm it plays G, for Cm it plays C.",
+    "Where the notes are: G is the open G string. F is the D string at fret 3 and Eb the D string at fret 1. Bb is the A string at fret 1 and C the A string at fret 3.",
+    "Keep your hand in one place: index finger on fret 1, ring finger on fret 3.",
+    "Learn Gm F Eb Bb first: it is the intro, every chorus and the second bridge. The bass walks down G, F, Eb, then Bb.",
+    "The song is slow: count 1 2 3 4 in every bar, a little faster than one count a second. Some charts give the tempo as 136, which is the same speed counted twice as fast.",
+    "Order of the song: Intro, Verse 1, Chorus four times, Verse 2, Chorus four times, Bridge 1, Chorus once more, Bridge 2, Ending.",
+    "A root-note arrangement written from the chord chart: one bar for each chord of Gm F Eb Bb. The bar lengths of the verse and the bridges are a reading of the chart, not checked against the recording."
+  ],
+  "sections": [
+    {
+      "name": "Intro",
+      "chart": ["[Gm] [F] [Eb] [Bb]"],
+      "tabs": [
+        {
+          "note": "One note per bar. Let it ring for all four counts.",
+          "bars": [
+            { "chords": "Gm", "G": "0-------" },
+            { "chords": "F",  "D": "3-------" },
+            { "chords": "Eb", "D": "1-------" },
+            { "chords": "Bb", "A": "1-------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "chart": [
+        "[Bb] [Eb] [Bb]",
+        "[Gm] [F] [Eb] [Bb]",
+        "[Bb] [Eb] [Bb]",
+        "[Gm] [F] [Eb] [Bb]"
+      ],
+      "tabs": [
+        {
+          "repeat": 2,
+          "note": "Two notes per bar, on counts 1 and 3. Each line of the chart is four bars.",
+          "bars": [
+            { "chords": "Bb", "A": "1---1---" },
+            {                 "A": "1---1---" },
+            { "chords": "Eb", "D": "1---1---" },
+            { "chords": "Bb", "A": "1---1---" },
+            { "chords": "Gm", "G": "0---0---" },
+            { "chords": "F",  "D": "3---3---" },
+            { "chords": "Eb", "D": "1---1---" },
+            { "chords": "Bb", "A": "1---1---" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "chart": ["[Gm] [F] [Eb] [Bb]"],
+      "tabs": [
+        {
+          "label": "Main",
+          "repeat": 4,
+          "note": "A note on every count. After Bridge 1 the chorus comes once more, then Bridge 2.",
+          "bars": [
+            { "chords": "Gm", "G": "0-0-0-0-" },
+            { "chords": "F",  "D": "3-3-3-3-" },
+            { "chords": "Eb", "D": "1-1-1-1-" },
+            { "chords": "Bb", "A": "1-1-1-1-" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 4,
+          "note": "Twice as many notes: one on every count and one on every \"and\" between.",
+          "bars": [
+            { "chords": "Gm", "G": "0-0-0-0-0-0-0-0-" },
+            { "chords": "F",  "D": "3-3-3-3-3-3-3-3-" },
+            { "chords": "Eb", "D": "1-1-1-1-1-1-1-1-" },
+            { "chords": "Bb", "A": "1-1-1-1-1-1-1-1-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "chart": [
+        "[Bb]",
+        "[Gm]",
+        "[Bb]",
+        "[Gm] [F]"
+      ],
+      "tabs": [
+        {
+          "label": "Start",
+          "note": "Two notes per bar. Each line of the chart is two bars. The bridge goes round several times, louder each time.",
+          "bars": [
+            { "chords": "Bb", "A": "1---1---" },
+            {                 "A": "1---1---" },
+            { "chords": "Gm", "G": "0---0---" },
+            {                 "G": "0---0---" },
+            { "chords": "Bb", "A": "1---1---" },
+            {                 "A": "1---1---" },
+            { "chords": "Gm", "G": "0---0---" },
+            { "chords": "F",  "D": "3---3---" }
+          ]
+        },
+        {
+          "label": "As it builds",
+          "note": "When the band gets louder, a note on every count.",
+          "bars": [
+            { "chords": "Bb", "A": "1-1-1-1-" },
+            {                 "A": "1-1-1-1-" },
+            { "chords": "Gm", "G": "0-0-0-0-" },
+            {                 "G": "0-0-0-0-" },
+            { "chords": "Bb", "A": "1-1-1-1-" },
+            {                 "A": "1-1-1-1-" },
+            { "chords": "Gm", "G": "0-0-0-0-" },
+            { "chords": "F",  "D": "3-3-3-3-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "chart": [
+        "[Gm] [F] [Eb] [Bb]",
+        "[Gm] [F] [Eb] [Bb] [Cm] [Bb] [Eb]"
+      ],
+      "tabs": [
+        {
+          "label": "Sung",
+          "note": "The chorus chords with a note on every count, for as long as the band sings it.",
+          "bars": [
+            { "chords": "Gm", "G": "0-0-0-0-" },
+            { "chords": "F",  "D": "3-3-3-3-" },
+            { "chords": "Eb", "D": "1-1-1-1-" },
+            { "chords": "Bb", "A": "1-1-1-1-" }
+          ]
+        },
+        {
+          "label": "Without words",
+          "note": "The chart's line with no words. Two notes per bar; C is new here, the A string at fret 3. The last Eb is held for two bars.",
+          "bars": [
+            { "chords": "Gm", "G": "0---0---" },
+            { "chords": "F",  "D": "3---3---" },
+            { "chords": "Eb", "D": "1---1---" },
+            { "chords": "Bb", "A": "1---1---" },
+            { "chords": "Cm", "A": "3---3---" },
+            { "chords": "Bb", "A": "1---1---" },
+            { "chords": "Eb", "D": "1---1---" },
+            {                 "D": "1---1---" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ending",
+      "chart": ["[Gm] [F] [Eb] [Bb] [Cm] [Bb] [Eb] [Bb]"],
+      "tabs": [
+        {
+          "note": "One note per bar. Let the last Bb ring until the band stops.",
+          "bars": [
+            { "chords": "Gm", "G": "0-------" },
+            { "chords": "F",  "D": "3-------" },
+            { "chords": "Eb", "D": "1-------" },
+            { "chords": "Bb", "A": "1-------" },
+            { "chords": "Cm", "A": "3-------" },
+            { "chords": "Bb", "A": "1-------" },
+            { "chords": "Eb", "D": "1-------" },
+            { "chords": "Bb", "A": "1-------" }
+          ]
+        }
+      ]
+    }
+  ]
+}
