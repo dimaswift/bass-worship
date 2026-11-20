@@ -1,0 +1,190 @@
+{
+  "title": "I Thank God",
+  "artist": "Maverick City Music, UPPERROOM",
+  "key": "Db",
+  "bpm": 130,
+  "time": "4/4",
+  "tuning": "EADG",
+  "youtube": "https://www.youtube.com/watch?v=ds2H1hbm6xM",
+  "source": "https://holychords.pro/27240",
+  "added": "2026-11-20",
+  "notes": [
+    "Db is the same note as C#, Eb as D#, Gb as F#, Ab as G# and Bb as A#.",
+    "The bass plays the letter of the chord: for Bbm it plays Bb, for Ebm7 it plays Eb, and Dbsus is still Db. For Db/F it plays F, the note after the slash.",
+    "Where the notes are: Ab is the E string at fret 4. Bb is the A string at fret 1 and Db the A string at fret 4. Eb is the D string at fret 1, F the D string at fret 3 and Gb the D string at fret 4.",
+    "Keep your hand in one place: index finger on fret 1, ring finger on fret 3, little finger on fret 4. This song uses no open strings.",
+    "The song is quick (130 BPM). Count 1 2 3 4 steadily, and slow the video down with the player's speed setting to practise.",
+    "Order of the song: Intro, Verse, Chorus, Interlude, Verse, Chorus, a longer Interlude, Bridge 1, Bridge 2, Chorus, then Spontaneous on Db to the end.",
+    "A root-note arrangement written from the chord chart. Each line of the chart is taken as two bars; that has not been checked against the recording."
+  ],
+  "sections": [
+    {
+      "name": "Intro and interlude",
+      "chart": ["[Db] [Dbsus] [Db] [Dbsus] [Db] [Dbsus]"],
+      "tabs": [
+        {
+          "repeat": 3,
+          "note": "Db in every bar, one note per bar. Keep going until the singing starts. The interlude and the Spontaneous part at the end are the same: Db for as long as the band plays it.",
+          "bars": [
+            { "chords": "Db",    "A": "4-------" },
+            { "chords": "Dbsus", "A": "4-------" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "chart": [
+        "[Db]",
+        "[Db]",
+        "[Gb] [Db]",
+        "[Db]",
+        "[Db]",
+        "[Gb] [Db]",
+        "[Ab] [Bbm]",
+        "[Gb] [Db]",
+        "[Ab] [Bbm] [Gb]"
+      ],
+      "tabs": [
+        {
+          "label": "Verse",
+          "repeat": 2,
+          "note": "One note per bar. Mostly Db; move one string up, same fret, for Gb.",
+          "bars": [
+            { "chords": "Db", "A": "4-------" },
+            {                 "A": "4-------" },
+            {                 "A": "4-------" },
+            {                 "A": "4-------" },
+            { "chords": "Gb", "D": "4-------" },
+            { "chords": "Db", "A": "4-------" }
+          ]
+        },
+        {
+          "label": "End of the verse",
+          "note": "The last three lines of the verse. Two notes per bar, on counts 1 and 3. The last Gb is held for two bars, into the chorus.",
+          "bars": [
+            { "chords": "Ab",  "E": "4---4---" },
+            { "chords": "Bbm", "A": "1---1---" },
+            { "chords": "Gb",  "D": "4---4---" },
+            { "chords": "Db",  "A": "4---4---" },
+            { "chords": "Ab",  "E": "4---4---" },
+            { "chords": "Bbm", "A": "1---1---" },
+            { "chords": "Gb",  "D": "4---4---" },
+            {                  "D": "4---4---" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "chart": [
+        "[Db]",
+        "[Ebm7]",
+        "[Db/F] [Gb]",
+        "[Bbm]",
+        "[Gb]",
+        "[Db]",
+        "[Ebm7]",
+        "[Db/F] [Gb]",
+        "[Bbm]",
+        "[Gb]",
+        "[Db]"
+      ],
+      "tabs": [
+        {
+          "label": "Main",
+          "repeat": 2,
+          "note": "Two notes per bar, on counts 1 and 3. The line climbs Db, Eb, F, Gb. After the second time round it ends on Db, which carries on into the interlude.",
+          "bars": [
+            { "chords": "Db",   "A": "4---4---" },
+            {                   "A": "4---4---" },
+            { "chords": "Ebm7", "D": "1---1---" },
+            {                   "D": "1---1---" },
+            { "chords": "Db/F", "D": "3---3---" },
+            { "chords": "Gb",   "D": "4---4---" },
+            { "chords": "Bbm",  "A": "1---1---" },
+            {                   "A": "1---1---" },
+            { "chords": "Gb",   "D": "4---4---" },
+            {                   "D": "4---4---" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 2,
+          "note": "A note on every count.",
+          "bars": [
+            { "chords": "Db",   "A": "4-4-4-4-" },
+            {                   "A": "4-4-4-4-" },
+            { "chords": "Ebm7", "D": "1-1-1-1-" },
+            {                   "D": "1-1-1-1-" },
+            { "chords": "Db/F", "D": "3-3-3-3-" },
+            { "chords": "Gb",   "D": "4-4-4-4-" },
+            { "chords": "Bbm",  "A": "1-1-1-1-" },
+            {                   "A": "1-1-1-1-" },
+            { "chords": "Gb",   "D": "4-4-4-4-" },
+            {                   "D": "4-4-4-4-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "chart": ["[Db]"],
+      "tabs": [
+        {
+          "label": "Start",
+          "repeat": 2,
+          "note": "Db the whole way through: the chart has eight lines of it. Begin with one note per bar.",
+          "bars": [
+            { "chords": "Db", "A": "4-------" },
+            {                 "A": "4-------" },
+            {                 "A": "4-------" },
+            {                 "A": "4-------" }
+          ]
+        },
+        {
+          "label": "As it builds",
+          "repeat": 2,
+          "note": "When the band gets louder, a note on every count.",
+          "bars": [
+            { "chords": "Db", "A": "4-4-4-4-" },
+            {                 "A": "4-4-4-4-" },
+            {                 "A": "4-4-4-4-" },
+            {                 "A": "4-4-4-4-" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "chart": [
+        "[Ab]",
+        "[Bbm] [Gb] [Db]"
+      ],
+      "tabs": [
+        {
+          "label": "Main",
+          "repeat": 4,
+          "note": "Two notes per bar, on counts 1 and 3. Bbm and Gb share the third bar.",
+          "bars": [
+            { "chords": "Ab",                    "E": "4---4---" },
+            {                                    "E": "4---4---" },
+            { "chords": [[1, "Bbm"], [3, "Gb"]], "A": "1-------", "D": "----4---" },
+            { "chords": "Db",                    "A": "4---4---" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 4,
+          "note": "A note on every count.",
+          "bars": [
+            { "chords": "Ab",                    "E": "4-4-4-4-" },
+            {                                    "E": "4-4-4-4-" },
+            { "chords": [[1, "Bbm"], [3, "Gb"]], "A": "1-1-----", "D": "----4-4-" },
+            { "chords": "Db",                    "A": "4-4-4-4-" }
+          ]
+        }
+      ]
+    }
+  ]
+}
