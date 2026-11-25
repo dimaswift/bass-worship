@@ -24,6 +24,12 @@ gives "BPM" and "Time Sig", and embeds a YouTube video of the song; check that v
 `youtube` unless the owner gave another. The page's address is the song's `source`. A screenshot shows no
 title: search for a line of the chart to find its page.
 
+The key button at the top of a holychords.pro screenshot says "(Original)" when the chart is in the
+recording's key. When it shows a key without "(Original)", the owner has moved the chart to the key their
+band plays: write the tab in the screenshot's key, and say in `notes` how far the recording is from it and
+how to play along with the video (for example "play every note two frets higher; an open string becomes
+fret 2"). `bog-zhivoy` is the example.
+
 The owner is learning the bass and cannot answer questions about meter, bar lengths or tempo. Find these
 out from the page or state what you assumed; do not ask.
 

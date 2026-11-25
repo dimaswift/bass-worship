@@ -1,5 +1,14 @@
 [
   {
+    "id": "bog-zhivoy",
+    "title": "Бог живой",
+    "subtitle": "",
+    "artist": "Слово Жизни Music",
+    "key": "D",
+    "added": "2026-11-25",
+    "video": true
+  },
+  {
     "id": "dostoin",
     "title": "Достоин",
     "subtitle": "",
