@@ -1,7 +1,7 @@
 {
   "title": "Бог живой",
   "artist": "Слово Жизни Music",
-  "key": "D",
+  "key": "E",
   "bpm": 127,
   "time": "4/4",
   "tuning": "EADG",
@@ -9,26 +9,27 @@
   "source": "https://holychords.pro/193",
   "added": "2026-11-25",
   "notes": [
-    "This tab is in D, as on the chord sheet you sent. The recording is in E, a whole step higher. To play along with the video, play every note two frets higher; an open string becomes fret 2.",
-    "Hm in the chords is B minor. The bass plays the letter: for Hm it plays B, for Em it plays E.",
-    "Where the notes are: E, A and D are the open E, A and D strings. B is the A string at fret 2 and G is the E string at fret 3.",
-    "Keep your hand in one place: index finger on fret 2, middle finger on fret 3. Most notes are open strings.",
+    "This tab is in E, the key of the recording, so you can play along with the video. Some chord sheets move the song down to D.",
+    "H in the chords is B. The bass plays the letter: for C#m it plays C#, for F#m it plays F#.",
+    "Where the notes are: E is the open E string and A the open A string. B is the A string at fret 2, C# the A string at fret 4, F# the E string at fret 2.",
+    "Keep your hand in one place: index finger on fret 2, ring finger on fret 4. The rest are open strings.",
+    "Two patterns make the whole song: C#m E A A in the intro and the verses, and A C#m H F#m A C#m H H in the chorus, the interlude and the bridges.",
     "Count 1 2 3 4 in every bar. The song is quick (127 BPM), so slow the video down with the player's speed setting to practise.",
     "Order on the chord sheet: Вступление, 1 Куплет, Припев, Проигрыш, 2 Куплет, Бридж 1, Бридж 2. The band may repeat the chorus and the bridges more times.",
-    "A root-note arrangement written from the chord chart: each line taken as four bars, with the last chord of a three-chord line held for two. It has not been checked against the recording."
+    "A root-note arrangement written from the chord chart: each line taken as four bars, with the last chord of a three-chord line held for two."
   ],
   "sections": [
     {
       "name": "Вступление",
-      "chart": ["[Hm] [D] [G]"],
+      "chart": ["[C#m] [E] [A]"],
       "tabs": [
         {
-          "note": "One note per bar. Let it ring for all four counts. G is held for two bars.",
+          "note": "One note per bar. Let it ring for all four counts. A is held for two bars.",
           "bars": [
-            { "chords": "Hm", "A": "2-------" },
-            { "chords": "D",  "D": "0-------" },
-            { "chords": "G",  "E": "3-------" },
-            {                 "E": "3-------" }
+            { "chords": "C#m", "A": "4-------" },
+            { "chords": "E",   "E": "0-------" },
+            { "chords": "A",   "A": "0-------" },
+            {                  "A": "0-------" }
           ]
         }
       ]
@@ -36,20 +37,32 @@
     {
       "name": "Куплет",
       "chart": [
-        "[Hm] [D] [G]",
-        "[Hm] [D] [G]",
-        "[Hm] [D] [G]",
-        "[Hm] [D] [G]"
+        "[C#m] [E] [A]",
+        "[C#m] [E] [A]",
+        "[C#m] [E] [A]",
+        "[C#m] [E] [A]"
       ],
       "tabs": [
         {
+          "label": "Main",
           "repeat": 4,
           "note": "The same four bars as the intro, once for each line of the verse.",
           "bars": [
-            { "chords": "Hm", "A": "2-------" },
-            { "chords": "D",  "D": "0-------" },
-            { "chords": "G",  "E": "3-------" },
-            {                 "E": "3-------" }
+            { "chords": "C#m", "A": "4-------" },
+            { "chords": "E",   "E": "0-------" },
+            { "chords": "A",   "A": "0-------" },
+            {                  "A": "0-------" }
+          ]
+        },
+        {
+          "label": "Harder, for later",
+          "repeat": 4,
+          "note": "For the second verse: two notes per bar, on counts 1 and 3.",
+          "bars": [
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "E",   "E": "0---0---" },
+            { "chords": "A",   "A": "0---0---" },
+            {                  "A": "0---0---" }
           ]
         }
       ]
@@ -57,25 +70,25 @@
     {
       "name": "Припев",
       "chart": [
-        "[G] [Hm] [A] [Em]",
-        "[G] [Hm] [A]",
-        "[G] [Hm] [A] [Em]",
-        "[G] [Hm] [A]"
+        "[A] [C#m] [H] [F#m]",
+        "[A] [C#m] [H]",
+        "[A] [C#m] [H] [F#m]",
+        "[A] [C#m] [H]"
       ],
       "tabs": [
         {
           "label": "Main",
           "repeat": 2,
-          "note": "Two notes per bar, on counts 1 and 3. A is held for two bars at the end.",
+          "note": "Two notes per bar, on counts 1 and 3. H is held for two bars at the end.",
           "bars": [
-            { "chords": "G",  "E": "3---3---" },
-            { "chords": "Hm", "A": "2---2---" },
-            { "chords": "A",  "A": "0---0---" },
-            { "chords": "Em", "E": "0---0---" },
-            { "chords": "G",  "E": "3---3---" },
-            { "chords": "Hm", "A": "2---2---" },
-            { "chords": "A",  "A": "0---0---" },
-            {                 "A": "0---0---" }
+            { "chords": "A",   "A": "0---0---" },
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "H",   "A": "2---2---" },
+            { "chords": "F#m", "E": "2---2---" },
+            { "chords": "A",   "A": "0---0---" },
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "H",   "A": "2---2---" },
+            {                  "A": "2---2---" }
           ]
         },
         {
@@ -83,14 +96,14 @@
           "repeat": 2,
           "note": "A note on every count.",
           "bars": [
-            { "chords": "G",  "E": "3-3-3-3-" },
-            { "chords": "Hm", "A": "2-2-2-2-" },
-            { "chords": "A",  "A": "0-0-0-0-" },
-            { "chords": "Em", "E": "0-0-0-0-" },
-            { "chords": "G",  "E": "3-3-3-3-" },
-            { "chords": "Hm", "A": "2-2-2-2-" },
-            { "chords": "A",  "A": "0-0-0-0-" },
-            {                 "A": "0-0-0-0-" }
+            { "chords": "A",   "A": "0-0-0-0-" },
+            { "chords": "C#m", "A": "4-4-4-4-" },
+            { "chords": "H",   "A": "2-2-2-2-" },
+            { "chords": "F#m", "E": "2-2-2-2-" },
+            { "chords": "A",   "A": "0-0-0-0-" },
+            { "chords": "C#m", "A": "4-4-4-4-" },
+            { "chords": "H",   "A": "2-2-2-2-" },
+            {                  "A": "2-2-2-2-" }
           ]
         }
       ]
@@ -98,21 +111,21 @@
     {
       "name": "Проигрыш",
       "chart": [
-        "[G] [Hm] [A] [Em]",
-        "[G] [Hm] [A]"
+        "[A] [C#m] [H] [F#m]",
+        "[A] [C#m] [H]"
       ],
       "tabs": [
         {
           "note": "The chorus chords once, without singing. Two notes per bar.",
           "bars": [
-            { "chords": "G",  "E": "3---3---" },
-            { "chords": "Hm", "A": "2---2---" },
-            { "chords": "A",  "A": "0---0---" },
-            { "chords": "Em", "E": "0---0---" },
-            { "chords": "G",  "E": "3---3---" },
-            { "chords": "Hm", "A": "2---2---" },
-            { "chords": "A",  "A": "0---0---" },
-            {                 "A": "0---0---" }
+            { "chords": "A",   "A": "0---0---" },
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "H",   "A": "2---2---" },
+            { "chords": "F#m", "E": "2---2---" },
+            { "chords": "A",   "A": "0---0---" },
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "H",   "A": "2---2---" },
+            {                  "A": "2---2---" }
           ]
         }
       ]
@@ -120,36 +133,36 @@
     {
       "name": "Бридж",
       "chart": [
-        "[G] [Hm] [A] [Em]",
-        "[G] [Hm] [A]"
+        "[A] [C#m] [H] [F#m]",
+        "[A] [C#m] [H]"
       ],
       "tabs": [
         {
           "label": "Бридж 1",
           "note": "The chorus chords again. Two notes per bar.",
           "bars": [
-            { "chords": "G",  "E": "3---3---" },
-            { "chords": "Hm", "A": "2---2---" },
-            { "chords": "A",  "A": "0---0---" },
-            { "chords": "Em", "E": "0---0---" },
-            { "chords": "G",  "E": "3---3---" },
-            { "chords": "Hm", "A": "2---2---" },
-            { "chords": "A",  "A": "0---0---" },
-            {                 "A": "0---0---" }
+            { "chords": "A",   "A": "0---0---" },
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "H",   "A": "2---2---" },
+            { "chords": "F#m", "E": "2---2---" },
+            { "chords": "A",   "A": "0---0---" },
+            { "chords": "C#m", "A": "4---4---" },
+            { "chords": "H",   "A": "2---2---" },
+            {                  "A": "2---2---" }
           ]
         },
         {
           "label": "Бридж 2",
           "note": "The band gets louder: a note on every count.",
           "bars": [
-            { "chords": "G",  "E": "3-3-3-3-" },
-            { "chords": "Hm", "A": "2-2-2-2-" },
-            { "chords": "A",  "A": "0-0-0-0-" },
-            { "chords": "Em", "E": "0-0-0-0-" },
-            { "chords": "G",  "E": "3-3-3-3-" },
-            { "chords": "Hm", "A": "2-2-2-2-" },
-            { "chords": "A",  "A": "0-0-0-0-" },
-            {                 "A": "0-0-0-0-" }
+            { "chords": "A",   "A": "0-0-0-0-" },
+            { "chords": "C#m", "A": "4-4-4-4-" },
+            { "chords": "H",   "A": "2-2-2-2-" },
+            { "chords": "F#m", "E": "2-2-2-2-" },
+            { "chords": "A",   "A": "0-0-0-0-" },
+            { "chords": "C#m", "A": "4-4-4-4-" },
+            { "chords": "H",   "A": "2-2-2-2-" },
+            {                  "A": "2-2-2-2-" }
           ]
         }
       ]

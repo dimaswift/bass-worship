@@ -24,11 +24,14 @@ gives "BPM" and "Time Sig", and embeds a YouTube video of the song; check that v
 `youtube` unless the owner gave another. The page's address is the song's `source`. A screenshot shows no
 title: search for a line of the chart to find its page.
 
-The key button at the top of a holychords.pro screenshot says "(Original)" when the chart is in the
-recording's key. When it shows a key without "(Original)", the owner has moved the chart to the key their
-band plays: write the tab in the screenshot's key, and say in `notes` how far the recording is from it and
-how to play along with the video (for example "play every note two frets higher; an open string becomes
-fret 2"). `bog-zhivoy` is the example.
+Write the tab in the key of the recording, because the owner practises by playing along with the video.
+The key button at the top of a holychords.pro screenshot says "(Original)" when the chart is in that key;
+a key without "(Original)" means the chart was moved. Then take the chords from the page's original key
+and say in `notes` that some sheets have it in another key. (On 2026-11-25 "Бог живой" written in the
+screenshot's D "didn't sound right" against the video in E.)
+
+Do not fetch tabs from songsterr.com. It refuses automated access, says its tabs are licensed, and asks
+not to be worked around. If the owner sends a Songsterr link, tell them so and work from a chord chart.
 
 The owner is learning the bass and cannot answer questions about meter, bar lengths or tempo. Find these
 out from the page or state what you assumed; do not ask.
